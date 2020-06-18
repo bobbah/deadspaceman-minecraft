@@ -14,9 +14,9 @@ This is the repository for the Dead Spaceman minecraft modpack.
 
 Bobbahbrown is hosting a server at ``mc.melonmesa.com``
 
-## Problems
+## Troubleshooting
 
-**My MC won't start when I set it to use more than 4GB of RAM!**
+#### My game won't start when I set it to use more than 4GB of RAM!
 
 Check that you are using 64-bit Java. In MultiMC, go to ``Settings`` -> ``Java`` -> ``Auto-detect...``, if the version that is starred says ``32`` under architecture, this is 32-bit Java and you must install 64-bit Java. [A download can be found here. Make sure you download the 64-bit version!](https://www.java.com/en/download/manual.jsp)
 
