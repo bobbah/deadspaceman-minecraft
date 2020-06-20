@@ -10,6 +10,13 @@ This is the repository for the Dead Spaceman minecraft modpack.
 2. Click 'Add Instance' in your MultiMC launcher, select 'Import from zip' on the left-hand side of the window, and enter ``https://github.com/bobbahbrown/deadspaceman-minecraft/releases/latest/download/deadspaceman-minecraft.zip``
 3. Launch the installed instance
 
+## Updating
+1. Click 'Add Instance' and install a new instance of the pack as described above, in part 2 of Installing.
+2. On your old instance, right click and press 'Minecraft Folder' in MultiMC. (You can identify this by hovering over the instance, as it will show the folder path. The old instance should be 1 number behind the new one, like ``my-game-folder`` is old and ``my-game-folder1`` is the new instance)
+3. Do the same for your new instance.
+4. Copy everything BUT the ``config`` and ``mods`` folder into your new instance.
+5. You should now have an updated instance with all your data from the old one.
+
 ## Connecting
 
 Bobbahbrown is hosting a server at ``mc.melonmesa.com``
