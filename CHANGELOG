@@ -1,6 +1,5 @@
 1.2.1:
-- Removed QMD due to crashing.
-* Reverted Random PSIdeas update due to crashing.
+- Removed QMD due to crashing
 
 1.2.0:
 + Added MystCraft
@@ -11,7 +10,6 @@
 - Removed Immersive Petroleum
 - Removed JourneyMap
 * Updated NuclearCraft to 2o.3.0gamma
-* Updated Random PSIdeas to a custom build
 
 1.1.0:
 + Added Chisels and Bits
