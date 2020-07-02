@@ -1,3 +1,14 @@
+1.2.0:
++ Added MystCraft
++ Added VoxelMap
++ Added QMD
++ Added Tinkers' Tool Leveling
++ Added BetterFPS
+- Removed Immersive Petroleum
+- Removed JourneyMap
+* Updated NuclearCraft to 2o.3.0gamma
+* Updated Random PSIdeas to a custom build
+
 1.1.0:
 + Added Chisels and Bits
 + Added Thermal Dynamics
