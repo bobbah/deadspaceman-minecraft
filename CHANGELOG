@@ -1,3 +1,7 @@
+1.2.1:
+- Removed QMD due to crashing.
+* Reverted Random PSIdeas update due to crashing.
+
 1.2.0:
 + Added MystCraft
 + Added VoxelMap
